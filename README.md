@@ -1,1 +1,1 @@
-# QR-Code-using_JavaScript
+# QR-Code
